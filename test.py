@@ -7,3 +7,4 @@ print("Fighter 2 currently has HP: "+str(fighter2.hp))
 fighter1.move(80,0)
 fighter2.got_hit(fighter1)
 print("Fighter 2 currently has HP: "+str(fighter2.hp))
+#testing
